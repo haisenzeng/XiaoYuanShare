@@ -3,3 +3,5 @@
 ## Java相关书籍
 - java高手真经五本[百度网盘链接](https://pan.baidu.com/s/11qWYo_5Hg-chU1sH8Z2XoQ) 密码：sw7a
 - 程序员在囧途[百度网盘链接](https://pan.baidu.com/s/18xEuDHb9tuLSeC5EQ0ZyPQ) 密码：u7wg
+## 免责声明
+以上书籍均来源于网络中他人的整理，这里只是收集并整理了他们的链接。如有侵权，请马上联系我，我立刻删除相应链接。邮箱：1853967891@qq.com
