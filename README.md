@@ -1,27 +1,6 @@
 书籍是人类进步的阶梯，保持学习，才能促使自己不断进步。对于我们大多上班族来说，拿起一本书，泡上一杯茶，安静的看会书都是奢侈享受了。所以这里为大家整理了一些电子书，方便大家在繁忙的工作中能够随时充电。
 >因为现在更新的书籍和种类不多，所以还没有设置目录。之后会继续为大家整理书籍，整理出目录，谢谢。
-Table of Contents
-=================
 
-Header: X-Ratelimit-Reset=1608518641
-Header: X-Frame-Options=deny
-Header: Vary=Accept-Encoding, Accept, X-Requested-With
-Header: Server=GitHub.com
-Header: Status=200 OK
-Header: X-Commonmarker-Version=0.21.0
-Header: X-Ratelimit-Limit=60
-Header: X-Content-Type-Options=nosniff
-Header: Date=Mon, 21 Dec 2020 01:44:01 GMT
-Header: Content-Type=text/html;charset=utf-8
-Header: Access-Control-Expose-Headers=ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset
-Header: Access-Control-Allow-Origin=*
-Header: X-Xss-Protection=1; mode=block
-Header: Referrer-Policy=origin-when-cross-origin, strict-origin-when-cross-origin
-Header: X-Ratelimit-Used=1
-Header: Content-Security-Policy=default-src 'none'
-Header: X-Github-Request-Id=0D06:73A4:1694818:1B6B3BD:5FDFFDE1
-Header: X-Ratelimit-Remaining=59
-Header: Strict-Transport-Security=max-age=31536000; includeSubdomains; preload
 * [Java相关书籍](#java相关书籍)
 * [前端相关书籍](#前端相关书籍)
 * [c/c\+\+相关书籍](#cc相关书籍)
