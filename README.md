@@ -43,6 +43,16 @@
 - C专家编程+清晰+（有书签索引）[百度网盘链接](https://pan.baidu.com/s/1YOW_4obGzLKJ7bJw5P_iBw) 密码：7tke
 
 ## python相关书籍
+- 编程小白的第一本Python入门书[百度网盘链接](https://pan.baidu.com/s/1AS-CUvK50HkyQ8DZV5QhYg) 密码：yg68
+- 笨办法学python[百度网盘链接](https://pan.baidu.com/s/1jCv-9JzDy8kZysN-Vj3Y3Q) 密码：n935
+- 深入Python3中文版[百度网盘链接](https://pan.baidu.com/s/1ZafXTzjWKFLwMiNl9JaVMg) 密码：98jv
+- Python学习手册(第4版)[百度网盘链接](https://pan.baidu.com/s/1eJsCwVoqhkTJgo3W1sijCg) 密码：v3b1
+- Python程序员指南(图)[百度网盘链接](https://pan.baidu.com/s/1XKSFBZDRlS_HmcOGKksVIg) 密码：g1ri
+- Python3程序开发指南(第二版)[百度网盘链接](https://pan.baidu.com/s/1gnVFdWd8f7P7ZglNR5MxbA) 密码：5jna
+- Python核心编程(第二版)[百度网盘链接](https://pan.baidu.com/s/18RIoP1Eh1V8zUC1lyjeBLw) 密码：hrqw
+- Python精要参考（第二版）[百度网盘链接](https://pan.baidu.com/s/1ZDVmMjDAsZGbcW6DUthdkA) 密码：xee5
+- Python编程金典[百度网盘链接](https://pan.baidu.com/s/16_2v2P6t-8vZkZ_zi0jbEw) 密码：dbvb
+- violent-python[百度网盘链接](https://pan.baidu.com/s/1nNUM4ternc-i7nTxk3StSA) 密码：ybk7
 
 ## 算法相关书籍
 
