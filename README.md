@@ -36,6 +36,11 @@
 - 《jQuery高级编程》中文完整扫描版[百度网盘链接](https://pan.baidu.com/s/1EBCKB6Yy0hhvW84tEs3zFA) 密码：843v
 
 ## c/c++相关书籍
+- C-Primer Plus 【第五版】[百度网盘链接](https://pan.baidu.com/s/1cympf2lFk8sw618Daopmww) 密码：74ex
+- C++ Primer Plus（第六版）中文版[百度网盘链接](https://pan.baidu.com/s/1uWJncnsG7h1lfK8tqt6nyg) 密码：7aeq
+- C和指针（第二版）[百度网盘链接](https://pan.baidu.com/s/14dMpHfML-ORHj3m5RJnTSg) 密码：6gwd
+- C语言入门经典（第4版）[百度网盘链接](https://pan.baidu.com/s/1J0a9XIFqz7vHmiij4r5Ztw) 密码：8x49
+- C专家编程+清晰+（有书签索引）[百度网盘链接](https://pan.baidu.com/s/1YOW_4obGzLKJ7bJw5P_iBw) 密码：7tke
 
 ## python相关书籍
 
