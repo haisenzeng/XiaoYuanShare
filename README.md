@@ -26,6 +26,17 @@
 - JAVA程序员成功面试秘籍[百度网盘链接](https://pan.baidu.com/s/1XFzYgg_WWjcpd5FE-FodGA) 密码：qg8r
 
 ## 前端相关书籍
+- Head First HTML与CSS 第2版[百度网盘链接](https://pan.baidu.com/s/1zF1Ozfpn3fLHWmzeY1FXoA) 密码：br3a
+- CSS权威指南_第三版（带书签）[百度网盘链接](https://pan.baidu.com/s/1vTlSQY2hDa7fRGv5oX3WYA) 密码：55q9
+- CSS揭秘[百度网盘链接](https://pan.baidu.com/s/12u_50EfY9ahHaSW5x-fj2w) 密码：35bc
+- JavaScript语言精粹[百度网盘链接](https://pan.baidu.com/s/16AislVP0Fbt06cqjjw49lQ) 密码：q5b7
+- javascriptDOM编程艺术[百度网盘链接](https://pan.baidu.com/s/1Oa0RKKI5x2IaEeOBSS6_ZQ) 密码：a637
+- JavaScript权威指南(第6版)(中文版)[百度网盘链接](https://pan.baidu.com/s/1uuZiNdfbd6rB7BT4QJbABA) 密码：sgst
+- 你不知道的 JavaScript（上中下三卷）_ocr[百度网盘链接](https://pan.baidu.com/s/1X_CsotqU08mcX_BvaXNP7g) 密码：3nq7
+- ES6标准入门 第3版[百度网盘链接](https://pan.baidu.com/s/1pIXs1lGE63iY01eTXsrJDg) 密码：p2bx
+- 深入理解ES6翻译完整版[百度网盘链接](https://pan.baidu.com/s/1OSXWM_6v9jSPD-NJktPJIw) 密码：e5pw
+- 高性能JavaScript[百度网盘链接](https://pan.baidu.com/s/1tOndmHWuPMEN9zJfqyteVA) 密码：dvg3
+- JavaScript高级程序设计（第3版）非扫描版[百度网盘链接](https://pan.baidu.com/s/1N8Qe0TKdUNfupcmvf4uAQg) 密码：tdv6
 - 《HTML5从入门到精通》中文学习教程[百度网盘链接](https://pan.baidu.com/s/1C2wPwb1LtOnIgxaXrxoXGA) 密码：gtxz
 - 《CSS网络大讲堂》.(祝红涛，张钦)[百度网盘链接](https://pan.baidu.com/s/1b8QJrQq9bXo8QEUMpI80rQ) 密码：qjmd
 - 《论道HTML5》.蒋宇捷等.扫描版[百度网盘链接](https://pan.baidu.com/s/15IT3R1PdBaFe_ElSFigkDQ) 密码：zy54
