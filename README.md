@@ -11,6 +11,12 @@
 * [免责声明](#免责声明)
 
 ## Java相关书籍
+- Head First Java(第2版)中文版[百度网盘链接](https://pan.baidu.com/s/1wjHxAfTuRgHdLIsnOzAF_w) 密码：jga4
+- Java核心技术 卷1 基础知识（第10版）[百度网盘链接](https://pan.baidu.com/s/1TdNnTyk5NkgOmWcI07QdOA) 密码：6x4x
+- Java核心技术 卷2 高级特性 原书第10版[百度网盘链接](https://pan.baidu.com/s/1IAlcYEhzLRzSAX-JPUkw_w) 密码：2rcw
+- Java并发编程实战[百度网盘链接](https://pan.baidu.com/s/1ayChUAfHx7ZNrmTUIMjDkw) 密码：x3q9
+- effective java 第三版 中英文2本[百度网盘链接](https://pan.baidu.com/s/1aFBuBT8JxzLDrcQ9qOKT6g) 密码：7ktm
+- 代码整洁之道[百度网盘链接](https://pan.baidu.com/s/1o4RljK4nFIhqmjl2cq_7Ew) 密码：awhv
 - java高手真经五本[百度网盘链接](https://pan.baidu.com/s/11qWYo_5Hg-chU1sH8Z2XoQ) 密码：sw7a
 - 程序员在囧途[百度网盘链接](https://pan.baidu.com/s/18xEuDHb9tuLSeC5EQ0ZyPQ) 密码：u7wg
 - java程序设计完全学习手册[百度网盘链接](https://pan.baidu.com/s/1yWXIDLb8uakab00jQ0ZUcQ) 密码：82bi
