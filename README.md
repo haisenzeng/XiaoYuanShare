@@ -53,6 +53,12 @@
 - 《jQuery高级编程》中文完整扫描版[百度网盘链接](https://pan.baidu.com/s/1EBCKB6Yy0hhvW84tEs3zFA) 密码：843v
 
 ## c/c++相关书籍
+- C++编程思想（两卷合订本）[百度网盘链接](https://pan.baidu.com/s/1fz_V5LaCWdU0X2pvygJZpA) 密码：avui
+- Exceptional C++中文版(draft)[百度网盘链接](https://pan.baidu.com/s/1WjOuvS_PpnbPV86GHWZu6Q) 密码：aubr
+- Effective C++ 中文版[百度网盘链接](https://pan.baidu.com/s/1b97_xhU4AzPlG0xGt9UbKw) 密码：578e
+- C++ TEMPLATES中文版_13340761[百度网盘链接](https://pan.baidu.com/s/1iDSIRfH_rKfBWQK4KHLgDQ) 密码：48eg
+- C++标准程序库(简体中文)[百度网盘链接](https://pan.baidu.com/s/10M_dr-rcam85_Qyefz6--A) 密码：tgvs
+- C++语言的设计与演化[百度网盘链接](https://pan.baidu.com/s/1CR357wIttVUnwPmAwCRzQw) 密码：a5e8
 - C-Primer Plus 【第五版】[百度网盘链接](https://pan.baidu.com/s/1cympf2lFk8sw618Daopmww) 密码：74ex
 - C++ Primer Plus（第六版）中文版[百度网盘链接](https://pan.baidu.com/s/1uWJncnsG7h1lfK8tqt6nyg) 密码：7aeq
 - C和指针（第二版）[百度网盘链接](https://pan.baidu.com/s/14dMpHfML-ORHj3m5RJnTSg) 密码：6gwd
