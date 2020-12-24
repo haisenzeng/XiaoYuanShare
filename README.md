@@ -71,6 +71,8 @@
 - Python编程：从入门到实践[百度网盘链接](https://pan.baidu.com/s/10uVIAOoysIDeV0RhkonNyw) 密码：pumk
 - 编程小白的第一本Python入门书[百度网盘链接](https://pan.baidu.com/s/1AS-CUvK50HkyQ8DZV5QhYg) 密码：yg68
 - 笨办法学python[百度网盘链接](https://pan.baidu.com/s/1jCv-9JzDy8kZysN-Vj3Y3Q) 密码：n935
+- 流畅的 python[百度网盘链接](https://pan.baidu.com/s/1aMKpt8M2I8NJ3e0zvZhO3A) 密码：dz7q
+- Python进阶[百度网盘链接](https://pan.baidu.com/s/1Ps91LzquVDecXUauIRF_NQ) 密码：vts7
 - 深入Python3中文版[百度网盘链接](https://pan.baidu.com/s/1ZafXTzjWKFLwMiNl9JaVMg) 密码：98jv
 - Python学习手册(第4版)[百度网盘链接](https://pan.baidu.com/s/1eJsCwVoqhkTJgo3W1sijCg) 密码：v3b1
 - Python程序员指南(图)[百度网盘链接](https://pan.baidu.com/s/1XKSFBZDRlS_HmcOGKksVIg) 密码：g1ri
