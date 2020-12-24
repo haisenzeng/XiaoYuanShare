@@ -66,6 +66,9 @@
 - C专家编程+清晰+（有书签索引）[百度网盘链接](https://pan.baidu.com/s/1YOW_4obGzLKJ7bJw5P_iBw) 密码：7tke
 
 ## python相关书籍
+- Head_First_Python（中文版）[百度网盘链接](https://pan.baidu.com/s/1xvJIly0iuOz-J45pLjQcQA) 密码：ispe
+- Learn Python The Hard Way 3rd Edition[百度网盘链接](https://pan.baidu.com/s/108mmsZTEOrLLpuKDE3Tscg) 密码：3z5d
+- Python编程：从入门到实践[百度网盘链接](https://pan.baidu.com/s/10uVIAOoysIDeV0RhkonNyw) 密码：pumk
 - 编程小白的第一本Python入门书[百度网盘链接](https://pan.baidu.com/s/1AS-CUvK50HkyQ8DZV5QhYg) 密码：yg68
 - 笨办法学python[百度网盘链接](https://pan.baidu.com/s/1jCv-9JzDy8kZysN-Vj3Y3Q) 密码：n935
 - 深入Python3中文版[百度网盘链接](https://pan.baidu.com/s/1ZafXTzjWKFLwMiNl9JaVMg) 密码：98jv
