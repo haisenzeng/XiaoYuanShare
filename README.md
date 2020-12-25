@@ -20,8 +20,8 @@
 - java高手真经五本[百度网盘链接](https://pan.baidu.com/s/11qWYo_5Hg-chU1sH8Z2XoQ) 密码：sw7a
 - 程序员在囧途[百度网盘链接](https://pan.baidu.com/s/18xEuDHb9tuLSeC5EQ0ZyPQ) 密码：u7wg
 - java程序设计完全学习手册[百度网盘链接](https://pan.baidu.com/s/1yWXIDLb8uakab00jQ0ZUcQ) 密码：82bi
-- Java 程序设计教程 第5版[百度网盘链接](https://pan.baidu.com/s/1n96Swnhm6dHNQrizAEuBJw) 密码：u837
-- JAVA程序设计教程+原书第3版[百度网盘链接](https://pan.baidu.com/s/1yLXdad5vBDWEPAahFR5kMg) 密码：iv9u
+- Java程序设计教程第5版 H.M.Deitel,P.J.Deitel[百度网盘链接](https://pan.baidu.com/s/1n96Swnhm6dHNQrizAEuBJw) 密码：u837
+- Java程序设计教程第3版StuartReges,MartyStepp[百度网盘链接](https://pan.baidu.com/s/1yLXdad5vBDWEPAahFR5kMg) 密码：iv9u
 - 软件构架实践（第2版）[百度网盘链接](https://pan.baidu.com/s/1C-IT2Tjy2SFS-dotYR7vIA) 密码：9v9w
 - Java核心技术精讲(李兴华)[百度网盘链接](https://pan.baidu.com/s/1--M1ZobRDDfYkfpzBNgkRQ) 密码：frff
 - Java项目案例分析[百度网盘链接](https://pan.baidu.com/s/1siqJwR9j9ymA718neiqsPg) 密码：ndma
