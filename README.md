@@ -98,7 +98,14 @@
 - violent-python[百度网盘链接](https://pan.baidu.com/s/1nNUM4ternc-i7nTxk3StSA) 密码：ybk7
 
 # 算法相关书籍
-
+- 啊哈算法[百度网盘链接](https://pan.baidu.com/s/1eyKFbKKt1TRRJrRrptpYXQ) 密码：2phc
+- 编程之法  面试和算法心得[百度网盘链接](https://pan.baidu.com/s/1p8v2lO3brdS1KlXLpIHp3A) 密码：n1vb
+- 编程珠玑（第2版）[百度网盘链接](https://pan.baidu.com/s/1-9lYnlFF8EleG9hxhOu5qg) 密码：snr4
+- 趣题学算法[百度网盘链接](https://pan.baidu.com/s/1GUfSLLLbvkmJ3K9oojQNAA) 密码：xr5d
+- 趣学算法[百度网盘链接](https://pan.baidu.com/s/1RLFLexUVXokFG7d6y5mhUQ) 密码：p1wu
+- 算法图解[百度网盘链接](https://pan.baidu.com/s/1_8mMC8Qj7Ho66LDGFz0VSQ) 密码：m4u1
+- 算法详解之算法基础[百度网盘链接](https://pan.baidu.com/s/1qsBbWkkG72nLf7lN-XTqUw) 密码：pvgf
+- 我的第一本算法书[百度网盘链接](https://pan.baidu.com/s/1N-TNF6l8VdYbJ8L21DBCFw) 密码：t55d
 # 数据结构相关书籍
 
 # 数据库
